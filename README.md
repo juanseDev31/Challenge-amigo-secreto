@@ -13,9 +13,6 @@ This is a simple game web application where users can add names and randomly dra
 - CSS
 - JavaScript
 
-## 📷 Screenshot
-](assets/screenshot.png)
-
 ## 🚀 Setup Instructions
 1. Clone the repository:
    ```sh
